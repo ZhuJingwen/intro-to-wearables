@@ -37,3 +37,7 @@ This is a collection of code examples for workshop Intro to Wearables.
 
 #### Linux
 - [Setup](https://learn.adafruit.com/adafruit-arduino-ide-setup/linux-setup)
+
+
+### Flora Accelerometer
+ -   [Library](https://github.com/adafruit/Adafruit_LSM303)
