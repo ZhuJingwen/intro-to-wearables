@@ -41,3 +41,6 @@ This is a collection of code examples for workshop Intro to Wearables.
 
 ### Flora Accelerometer
  -   [Library](https://github.com/adafruit/Adafruit_LSM303)
+
+ ### Adafruit Sensor
+ -[Library](https://github.com/adafruit/Adafruit_Sensor)
