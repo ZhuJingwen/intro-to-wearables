@@ -13,10 +13,10 @@ This is a collection of code examples for workshop Intro to Wearables.
 - [Download Arduino](https://www.arduino.cc/en/Main/Software)
 - [Install Adafruit Boards Support](https://learn.adafruit.com/adafruit-arduino-ide-setup/arduino-1-dot-6-x-ide)
 	- Arduino File Manu >> Preferences
-	- Paste 
-	
-	https://adafruit.github.io/arduino-board-index/package_adafruit_index.json 
-	
+	- Paste
+
+	https://adafruit.github.io/arduino-board-index/package_adafruit_index.json
+
 	into the "Additional Board Managers URLS" box
 	- Click OK to save the new preference settings
 	- Arduino Tools Manu >> Board >> Boards Manager
@@ -28,7 +28,7 @@ This is a collection of code examples for workshop Intro to Wearables.
 - [Download Arduino](https://www.arduino.cc/en/Main/Software)
 - [Install Adafruit Boards Support](https://learn.adafruit.com/adafruit-arduino-ide-setup/arduino-1-dot-6-x-ide)
 	- Arduino >> Preferences
-	- Paste **https://adafruit.github.io/arduino-board-index/package_adafruit_index.json** into the "Additional Board Managers URLS" box
+	- Paste https://adafruit.github.io/arduino-board-index/package_adafruit_index.json into the "Additional Board Managers URLS" box
 	- Click OK to save the new preference settings
 	- Arduino Tools Manu >> Board >> Boards Manager
 	- Search **Adafruit AVR Boards**
